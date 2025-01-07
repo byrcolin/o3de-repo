@@ -8,12 +8,12 @@
     "license": "Apache-2.0",
     "license_path": "LICENSE",
     "gems": [
-        "https://byrcolin.github.io/o3de-repoGems/AWSClientAuth",
-        "https://byrcolin.github.io/o3de-repoGems/AWSCore",
-        "https://byrcolin.github.io/o3de-repoGems/AWSGameLift",
-        "https://byrcolin.github.io/o3de-repoGems/AWSMetrics",
-        "https://byrcolin.github.io/o3de-repoGems/HttpRequestor",
-        "https://byrcolin.github.io/o3de-repoGems/MetaStream",
-        "https://byrcolin.github.io/o3de-repoGems/Twitch"
+        "https://byrcolin.github.io/o3de-repo/Gems/AWSClientAuth",
+        "https://byrcolin.github.io/o3de-repo/Gems/AWSCore",
+        "https://byrcolin.github.io/o3de-repo/Gems/AWSGameLift",
+        "https://byrcolin.github.io/o3de-repo/Gems/AWSMetrics",
+        "https://byrcolin.github.io/o3de-repo/Gems/HttpRequestor",
+        "https://byrcolin.github.io/o3de-repo/Gems/MetaStream",
+        "https://byrcolin.github.io/o3de-repo/Gems/Twitch"
     ]
 }
