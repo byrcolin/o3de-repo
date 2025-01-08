@@ -3,9 +3,9 @@
     "version": "0.0.0",
     "display_name": "Twitch",
     "license": "Apache-2.0 Or MIT",
-    "license_url": "https://github.com/o3de/o3de/blob/development/LICENSE.txt",
-    "origin": "Open 3D Engine - o3de.org",
-    "origin_url": "https://github.com/o3de/o3de",
+   "license_uri": "https://byrcolin.github.io/o3de-repo/LICENSE.txt",
+    "origin": "AWS",
+    "origin_uri": "https://github.com/byrcolin/o3de-repo",
     "type": "Code",
     "summary": "The Twitch Gem provides access to the Twitch API v5 SDK including social functions, channels, and other APIs.",
     "canonical_tags": [
