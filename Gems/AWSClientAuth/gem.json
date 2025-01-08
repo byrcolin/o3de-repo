@@ -5,7 +5,7 @@
     "license": "Apache-2.0 Or MIT",
     "license_uri": "https://byrcolin.github.io/o3de-repo/LICENSE.txt",
     "origin": "AWS",
-    "origin_uri": "https://github.com/byrcolin/o3de-repo",
+    "origin_uri": "https://github.com/byrcolin/o3de-repo.git",
     "type": "Code",
     "summary": "AWS Client Auth provides client authentication and AWS authorization solution.",
     "canonical_tags": [

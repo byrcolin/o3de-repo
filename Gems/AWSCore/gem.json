@@ -5,7 +5,7 @@
     "license": "Apache-2.0 Or MIT",
     "license_uri": "https://byrcolin.github.io/o3de-repo/LICENSE.txt",
     "origin": "AWS",
-    "origin_uri": "https://github.com/byrcolin/o3de-repo",
+    "origin_uri": "https://github.com/byrcolin/o3de-repo.git",
     "type": "Code",
     "summary": "The AWS Core Gem provides basic shared AWS functionality such as AWS SDK initialization and client configuration, and is automatically added when selecting any AWS feature Gem.",
     "canonical_tags": [
