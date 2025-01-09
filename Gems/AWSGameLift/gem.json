@@ -18,6 +18,7 @@
         "SDK"
     ],
     "icon_path": "preview.png",
+    "icon_uri": "https://byrcolin.github.io/o3de-repo/Gems/AWSGameLift/preview.png",
     "requirements": "Users will need to enable the Multiplayer gem to support the AWSGameLift feature.",
     "documentation_url": "https://o3de.org/docs/user-guide/gems/reference/aws/aws-gamelift/",
     "dependencies": [

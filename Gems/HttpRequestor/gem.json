@@ -16,6 +16,7 @@
         "Utility"
     ],
     "icon_path": "preview.png",
+    "icon_uri": "https://byrcolin.github.io/o3de-repo/Gems/HttpRequestor/preview.png",
     "requirements": "",
     "documentation_url": "https://o3de.org/docs/user-guide/gems/reference/network/http-requestor/",
     "dependencies": []
